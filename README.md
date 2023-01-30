@@ -23,6 +23,7 @@ Technologies & Skills
 ![C](https://img.shields.io/badge/-C-000?style=flat&logoColor=white&logo=l&color=404254)
 ![PHP](https://img.shields.io/badge/-PHP-000?style=flat&logoColor=white&logo=php&color=404254)
 ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logoColor=white&logo=sql&color=404254)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-000?style=flat&logoColor=white&logo=sql&color=404254)
 
 
 
